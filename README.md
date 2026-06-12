@@ -3,4 +3,5 @@
 * git add
 * rm -rf .git
 * git commit
-* pull fetch
+* git pull / fetch
+* SourceTree 추가
