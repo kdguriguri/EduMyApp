@@ -2,3 +2,4 @@
 * git init
 * git add
 * rm -rf .git
+* git commit
